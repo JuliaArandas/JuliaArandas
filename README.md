@@ -1,16 +1,34 @@
 ## 👋 Olá, Eu sou a Julia Arandas Lopes 
 
-<!--
-**JuliaArandas/JuliaArandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔌 Técnica em Eletrotécnica  
+💻 Apaixonada por tecnologia, inovação e desenvolvimento web  
+📚 Sempre em busca de novos aprendizados e desafios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso e estudo:
+
+- HTML | JavaScript  
+- Python | C | Java 
+- Git e GitHub  
+- Banco de Dados (MySQL)  
+- Ferramentas de prototipagem e edição ( Canva)  
+- Noções de hardware e eletrônica 
+
+---
+
+## 📂 Projetos em destaque:
+
+- 💡 Blog sobre Bill Gates – Trabalho em HTML e EduBlogs  
+- 🖥️ Simulações de circuitos e automações básicas em Eletrotécnica  
+- 🔢 Algoritmos simples com foco em lógica de programação  
+- ☕ Programações em Java – Estruturas de decisão, repetição e orientação a objetos  
+
+---
+
+## 📫 Como me encontrar:
+
+- [LinkedIn](in/juliaarandass)  
+- [Email](juliaarandas08@gmail.com)  
+- GitHub: [@juliaarandas](https://github.com/juliaarandas)
