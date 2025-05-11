@@ -14,7 +14,7 @@
 - Git e GitHub  
 - Banco de Dados (MySQL)  
 - Ferramentas de prototipagem e edição ( Canva)  
-- Noções de hardware e eletrônica 
+- Noções de hardware, softwere e eletrônica 
 
 ---
 
