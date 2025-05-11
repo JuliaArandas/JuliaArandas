@@ -29,6 +29,12 @@
 
 ## 📫 Como me encontrar:
 
-- [LinkedIn](in/juliaarandass)  
+- [LinkedIn]([in/juliaarandass](https://www.linkedin.com/in/julia-arandas-79881434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 - [Email](juliaarandas08@gmail.com)  
 - GitHub: [@juliaarandas](https://github.com/juliaarandas)
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaarandas&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarandas&layout=compact&theme=radical)
