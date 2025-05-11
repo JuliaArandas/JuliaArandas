@@ -29,7 +29,7 @@
 
 ## 📫 Como me encontrar:
 
-- [LinkedIn]([in/juliaarandass](https://www.linkedin.com/in/julia-arandas-79881434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+- [LinkedIn]([[in/juliaarandass](https://www.linkedin.com/in/julia-arandas-79881434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/juliaarandass))  
 - [Email](juliaarandas08@gmail.com)  
 - GitHub: [@juliaarandas](https://github.com/juliaarandas)
 
