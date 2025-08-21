@@ -1,40 +1,42 @@
-## 👋 Olá, Eu sou a Julia Arandas Lopes 
+##👋 Olá, eu sou a Julia Arandas Lopes  
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔌 Técnica em Eletrotécnica  
-💻 Apaixonada por tecnologia, inovação e desenvolvimento web  
-📚 Sempre em busca de novos aprendizados e desafios  
-
----
-
-## 🚀 Tecnologias que uso e estudo:
-
-- HTML | JavaScript  
-- Python | C | Java 
-- Git e GitHub  
-- Banco de Dados (MySQL)  
-- Ferramentas de prototipagem e edição ( Canva)  
-- Noções de hardware, softwere e eletrônica 
+💻 Desenvolvedora em formação, focada em **Front-end**  
+⚡ Tecnologias: JavaScript | HTML | CSS | React  
+🎨 Construindo interfaces funcionais, criativas e responsivas  
+🚀 Apaixonada por tecnologia, inovação e desenvolvimento web  
 
 ---
 
-## 📂 Projetos em destaque:
+## 🚀 Tecnologias que utilizo e estudo
 
-- 💡 Blog sobre Bill Gates – Trabalho em HTML e EduBlogs  
-- 🖥️ Simulações de circuitos e automações básicas em Eletrotécnica  
-- 🔢 Algoritmos simples com foco em lógica de programação  
-- ☕ Programações em Java – Estruturas de decisão, repetição e orientação a objetos  
+- Front-end: **HTML, CSS, JavaScript, React**  
+- Back-end: **Python, Java*  
+- Banco de Dados: **MySQL e SQL**  
+- Versionamento: **Git & GitHub**  
+- Ferramentas: **Canva, Figma**  
+- Conceitos: **Análise de Dados, NoSQL, Arquitetura de Software**  
 
 ---
 
-## 📫 Como me encontrar:
+## 📂 Projetos em destaque
 
-- [LinkedIn]([[in/juliaarandass](https://www.linkedin.com/in/julia-arandas-79881434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/juliaarandass))  
-- [Email](juliaarandas08@gmail.com)  
-- GitHub: [@juliaarandas](https://github.com/juliaarandas)
+- 💡 **Blog sobre Bill Gates** – desenvolvido em HTML no EduBlogs  
+- 🔢 **Algoritmos e lógica de programação** – exercícios em Python e C  
+- ☕ **Projetos em Java** – estruturas de decisão, repetição e orientação a objetos  
+- 🌐 **Interfaces Web responsivas** – estudos e protótipos em React e CSS  
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/juliaarandass)  
+- [Email](juliaarandas008@gmail.com)  
+- [GitHub](https://github.com/juliaarandas)  
+
+---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaarandas&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaarandas&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarandas&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaarandas&layout=compact&theme=radical)  
